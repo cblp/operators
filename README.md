@@ -29,14 +29,14 @@ $ do(llar)   до
 
 ## Examples
 ```
-<>    lemo
-<*>   лестамо
-<$>   lebamo
->>=   момоква
->->   modamo
-|->   пайдамо
-<.&.= lepoitepoiqua
-:::   кококо
+<>    lemo          лемо
+<*>   lestamo       лестамо
+<$>   lebamo        лебамо
+>>=   momoqua       момоква
+>->   momimo        момимо
+|->   paimimo       паймимо
+<.&.= lepoitepoiqua лепойтэпойква
+:::   kokoko        кококо
 ```
 
 ## Reverse reference
