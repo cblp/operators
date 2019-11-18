@@ -5,25 +5,25 @@ Programming operator pronunciation
 
 ## Quick reference
 ```
-- mi(nus)    ми
+- mi(nus)    ми   dash?
 : ko(lon)    ко
-! ba(ng)     ба
+! ba(ng)     ба   exclamation?
 ? que(stion) квэ
-. poi(nt)    пой
+. poi(nt)    пой  punkt? dot?
 @ ta (at)    та
 * sta(r)     ста
 / sla(sh)    сла
-\ slo(sh)    сло
+\ slo(sh)    сло  back?
 & te (et)    тэ
-# ha(sh)     ха
-% pe(rcent)  пе
-^ ka(ret)    ка
+# ha(sh)     ха   pound?
+% pe(rcent)  пе   procent?
+^ ka(ret)    ка   circumflex?
 + plu(s)     плю
 < le(ss)     ле
 = (e)qua(l)  ква
-> mo(re)     мо
-| pai(pe)    пай
-~ (wai)ve    вэ
+> mo(re)     мо   greater?
+| pai(pe)    пай  bar?
+~ (wai)ve    вэ   tilde?
 $ do(llar)   до
 ```
 
